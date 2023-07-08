@@ -16,4 +16,7 @@
 ## Ссылка на проект
 https://github.com/SSSooonnnyyya/movies-explorer-api
 
-## Домен, по которому можно обратиться к серверу
+## Ссылки на проект
+
+IP 158.160.46.83
+Backend https://api.bigha.student.nomoredomains.rocks
